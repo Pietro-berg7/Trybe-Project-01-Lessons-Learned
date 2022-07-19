@@ -1,7 +1,30 @@
+* {
+    text-decoration: none;
+}
+
 body {
     background-color: rgb(253, 251, 251);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 header {
     top: 0;
+}
+
+img {
+    width: 200px;
+}
+
+main {
+    width: 70%;
+    text-align: center;
+}
+
+div, aside, footer, section {
+    border: 1px solid red;
+}
+
+aside {
+    float: right;
+    width: 30%;
 }
