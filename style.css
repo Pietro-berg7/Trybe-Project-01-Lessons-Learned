@@ -7,6 +7,7 @@ body {
     background-color: rgb(253, 251, 251);
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-align: center;
+    margin-top: 120px;
 }
 
 main {
@@ -72,6 +73,8 @@ a:hover {
 
 #cabecalho {
     top: 0;
+    position: fixed;
     background-color: aquamarine;
     padding: 20px;
+    width: 100%;
 }
