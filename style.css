@@ -21,8 +21,7 @@ section {
   margin: 30px;
 }
 
-article,
-aside {
+article , aside {
   display: inline-block;
   margin: 30px auto 50px;
   width: 40%;
@@ -79,4 +78,4 @@ a:hover {
   background-color: aquamarine;
   padding: 20px;
   width: 100%;
-}
+} 
